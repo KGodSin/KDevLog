@@ -6,7 +6,7 @@ module.exports = {
 	title: "ksin's develop blog",
 	subtitle: "매일 발전하려고 노력하는 초보 개발자입니다.",
 	copyright: "© All rights reserved.",
-	disqusShortname: "",
+	disqusShortname: "https-kdevelog-netlify-com-1",
 	postsPerPage: 4,
 	googleAnalyticsId: "UA-132785359-1",
 	useKatex: false,
