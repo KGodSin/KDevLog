@@ -205,6 +205,12 @@ module.exports = {
 			}
 		},
 		"gatsby-plugin-flow",
-		"gatsby-plugin-optimize-svgs"
+		"gatsby-plugin-optimize-svgs",
+		{
+			resolve: "gatsby-plugin-disqus",
+			options: {
+				shortname: "https-kdevelog-netlify-com-1"
+			}
+		}
 	]
 };
