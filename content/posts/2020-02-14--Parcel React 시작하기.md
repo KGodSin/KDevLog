@@ -9,7 +9,7 @@ tags:
   - "pacel"
   - "react"
   - "typescript"
-	- "storybook"
+  - "storybook"
 description: "Parcel로 React기본 프로젝트를 시작 해 본다."
 socialImage: "/media/image-0.jpg"
 ---
